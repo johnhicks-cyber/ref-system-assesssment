@@ -17,3 +17,9 @@ This project demonstrates implementation of the NIST Risk Management Framework (
 
 ## Key Outcome
 Developed a System Security Plan (SSP) and control assessment aligned with federal compliance requirements.
+
+## Skills Demonstrated
+- Risk Assessment
+- NIST RMF
+- Vulnerability Analysis
+- Security Monitoring
